@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+dataset.json
+results/analysis_results/matched_report.txt
+results/analysis_results/matched_results.json
+inspect_columns.py
